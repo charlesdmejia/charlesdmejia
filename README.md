@@ -1,5 +1,5 @@
 # About Me:
-I’m a Computer Science student currently in my second year. My first year was a lot of experimentation, but I’ve now found my stride in moving from foundational programming toward the logic and scale of Backend and Machine Learning.
+I’m a Computer Science student currently in my second year. 
 
 
 # 💻 Tech Stack:
